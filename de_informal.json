@@ -1,6 +1,6 @@
 {
-    "localeCode": "de",
-    "authors": ["3x1t_5tyl3", "Ardes", "Avunia Takiya", "Banane9", "Blaze", "Bluigi", "DeadDr4gon", "dfgHiatus", "Elektrospy", "Holy", "InnocentThief", "JackTheFoxOtter", "JavaDerg", "m1nt_", "mpmxyz", "MR-Alex", "Muppeq", "Psychpsyo", "Schwefelhexafluorid", "Tidurian", "Tillikum"],
+    "localeCode": "de_informal",
+    "authors": ["Tillikum"],
     "messages": {
 
         "General.OK": "OK",
@@ -81,7 +81,7 @@
         "Interaction.Destroy": "Löschen",
         "Interaction.Duplicate": "Duplizieren",
         "Interaction.SaveToInventory": "Ins Inventar speichern",
-        "Interaction.SaveToInventory.NotLoggedIn": "Sie müssen angemeldet sein, um Dinge zu speichern.",
+        "Interaction.SaveToInventory.NotLoggedIn": "Du musst angemeldet sein, um Dinge zu speichern.",
         "Interaction.SaveToInventory.NoWritePermission": "Kann nicht in den aktuellen Inventarordner speichern.",
         "Interaction.Undo": "Rückgängig",
         "Interaction.Redo": "Wiederherstellen",
@@ -159,11 +159,11 @@
         "Dash.Exit.ExitAndSave": "Homes speichern &<br>beenden",
         "Dash.Exit.ExitAndDiscard": "Ohne Speichern<br>beenden",
         "Dash.Exit.Sponsor": "Vielen Dank an {name} für das Sponsoring dieses Projektes!",
-        "Dash.Exit.Sponsor.You": "SIE",
+        "Dash.Exit.Sponsor.You": "DICH",
         "Dash.Exit.Shoutouts": "Dieses Projekt wurde außerdem möglich gemacht von diesen Leuten:",
         "Dash.Exit.Shoutouts.AndMore": " und vielen mehr!",
-        "Dash.Exit.Shoutouts.You": "{name} (Das sind Sie! Vielen Dank!)",
-        "Dash.Exit.ThankYou": "Vielen Dank, dass Sie {appName} benutzen!",
+        "Dash.Exit.Shoutouts.You": "{name} (Das bist Du! Vielen Dank!)",
+        "Dash.Exit.ThankYou": "Vielen Dank, dass Du {appName} benutzt!",
         "Dash.Exit.SubmittedBy": "Eingereicht von: {name}",
 
         "Facets.FPS": "{fps}<size=61.803%> FPS</size>",
@@ -207,7 +207,7 @@
         "World.Error.NoPort": "Kein Port angegeben",
         "World.Error.IncompatibleVersion": "Inkompatible {appName}-Version",
         "World.Error.HostBlocked": "Host blockiert",
-        "World.Error.HostBlockedDetail": "Sie haben den Host blockiert",
+        "World.Error.HostBlockedDetail": "Du hast den Host blockiert",
         "World.Error.WorldCrash": "Welt Abgestürzt",
         "World.Error.WorldCrashDetail": "Fataler Fehler beim Updaten der Welt",
         "World.Error.Handshake": "Handshake-Fehler",
@@ -255,7 +255,7 @@
         "World.Actions.LeaveConfirm": "Verlassen",
         "World.Actions.CannotClose": "(diese Welt kann nicht geschlossen werden)",
         "World.Actions.GuestWarning": "",
-        "World.Actions.HostingWarning": "Sie sind Host dieser Welt. Alle anwesenden Benutzer werden getrennt, wenn Sie die Welt schließen.",
+        "World.Actions.HostingWarning": "Du bist der Host dieser Welt. Alle anwesenden Benutzer werden getrennt, wenn du die Welt schließt.",
 
         "World.Actions.GetWorldOrb": "Welt-Orb erzeugen",
         "World.Actions.CopyWorldURL": "Welt-URL kopieren",
@@ -411,37 +411,37 @@
         "Indicator.LiveHiddenMessage": "(Information während Livemodus versteckt)",
 
         "Login.InvalidCredentials": "Ungültige Anmeldedaten",
-        "Login.InvalidCredentials.Description": "Überprüfen Sie Ihre Anmeldedaten und versuchen Sie es erneut, oder drücken Sie \"Passwort vergessen?\".",
+        "Login.InvalidCredentials.Description": "Überprüfe deine Anmeldedaten und versuche es erneut, oder drücke auf \"Passwort vergessen?\".",
 
         "Login.InvalidLogin": "Ungültige Anmeldedaten",
-        "Login.InvalidLogin.Description": "Überprüfen Sie Ihre Anmeldedaten und versuchen Sie es erneut, oder drücken Sie \"Passwort vergessen?\".",
+        "Login.InvalidLogin.Description": "Überprüfe deine Anmeldedaten und versuche es erneut, oder drücke auf \"Passwort vergessen?\".",
 
-        "Login.MalformedUID": "Ungültige Gerät-Informationen",
-        "Login.MalformedUID.Description": "Versuchen Sie eine Neuinstallation, oder wenden Sie sich an den Support unter {supportUrl}.",
+        "Login.MalformedUID": "Ungültige Geräte-Informationen",
+        "Login.MalformedUID.Description": "Versuche eine Neuinstallation, oder wende dich an den Support unter {supportUrl}.",
 
-        "Login.MissingUID": "Fehlende Gerät-Informationen",
-        "Login.MissingUID.Description": "Versuchen Sie eine Neuinstallation, oder wenden Sie sich an den Support unter {supportUrl}.",
+        "Login.MissingUID": "Fehlende Geräte-Informationen",
+        "Login.MissingUID.Description": "Versuche eine Neuinstallation, oder wende dich an den Support unter {supportUrl}.",
 
         "Login.MissingSecretMachineId": "Fehlende geheime Geräte-ID",
-        "Login.MissingSecretMachineId.Description": "Versuchen Sie eine Neuinstallation, oder wenden Sie sich an den Support unter {supportUrl}.",
+        "Login.MissingSecretMachineId.Description": "Versuche eine Neuinstallation, oder wende dich an den Support unter {supportUrl}.",
 
         "Login.MalformedSecretMachineId": "Ungültige geheime Geräte-ID",
-        "Login.MalformedSecretMachineId.Description": "Versuchen Sie eine Neuinstallation, oder wenden Sie sich an den Support unter {supportUrl}.",
+        "Login.MalformedSecretMachineId.Description": "Versuche eine Neuinstallation, oder wende dich an den Support unter {supportUrl}.",
 
-        "Register.MissingUID": "Fehlende Gerät-Informationen",
-        "Register.MissingUID.Description": "Versuchen Sie eine Neuinstallation, oder wenden Sie sich an den Support unter {supportUrl}.",
+        "Register.MissingUID": "Fehlende Geräte-Informationen",
+        "Register.MissingUID.Description": "Versuche eine Neuinstallation, oder wende dich an den Support unter {supportUrl}.",
 
-        "Register.MalformedUID": "Ungültige Gerät-Informationen",
-        "Register.MalformedUID.Description": "Versuchen Sie eine Neuinstallation, oder wenden Sie sich an den Support unter {supportUrl}.",
+        "Register.MalformedUID": "Ungültige Geräte-Informationen",
+        "Register.MalformedUID.Description": "Versuche eine Neuinstallation, oder wende dich an den Support unter {supportUrl}.",
 
         "Login.MissingLogin": "Keine Anmeldedaten bereitgestellt",
-        "Login.MissingLogin.Description": "Haben Sie Ihre Anmeldedaten eingegeben?",
+        "Login.MissingLogin.Description": "Hast du deine Anmeldedaten eingegeben?",
 
         "Login.InvalidRecoveryCode": "Ungültiger Wiederherstellungscode",
         "Login.InvalidRecoveryCode.Description": "Überprüfen Sie Ihren Wiederherstellungscode und versuchen Sie es erneut.",
 
         "Login.UnsupportedAuthentication": "Nicht unterstützte Authentifizierungsmethode",
-        "Login.UnsupportedAuthentication.Description": "Wir unterstützen diese Authentifizierungsmethode nicht. Bitte versuchen Sie es mit einer anderen erneut.",
+        "Login.UnsupportedAuthentication.Description": "Wir unterstützen diese Authentifizierungsmethode nicht. Bitte versuche es mit einer anderen erneut.",
 
         "Login.EmailNotVerified": "E-Mail Adresse nicht verifiziert",
         "Login.EmailNotVerified.Description": "Ihre E-Mail Adresse ist nicht verifiziert, überprüfen Sie Ihren Posteingang, wir haben Ihnen eine E-Mail gesendet. Bitte sehen Sie auch im Spam-Ordner nach.",
